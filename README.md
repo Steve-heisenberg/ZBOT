@@ -14,6 +14,7 @@ ZBOT lets you **upload any Document** and ask questions about it using OPENAI.
 ## 1. Clone the Repo
 
 git clone https://github.com/Steve-heisenberg/zbot.git
+
 cd zbot
 
 ## 2. Install Dependencies
