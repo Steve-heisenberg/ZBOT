@@ -1,6 +1,6 @@
 # 🤖 ZBOT 
 
-ZBOT lets you **upload any PDF** and ask questions about it using OPENAI.
+ZBOT lets you **upload any Document** and ask questions about it using OPENAI.
 
 ---
 
@@ -39,9 +39,9 @@ streamlit run app.py
 
 1. Open the app in your browser.
 
-2. Upload a PDF file from the sidebar.
+2. Upload your document file from the sidebar.
 
-3. Type any question related to the content of that PDF.
+3. Type any question related to the content of that document.
 
 4. ZBOT will read and answer in real time.
 
